@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "273481867319",
+    "firebase_url": "https://flutter01-fb96d-default-rtdb.firebaseio.com",
+    "project_id": "flutter01-fb96d",
+    "storage_bucket": "flutter01-fb96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273481867319:android:c9804354fcb919f33c9fb2",
+        "android_client_info": {
+          "package_name": "com.example.newsworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273481867319-n2f674eru4v4mdj5hu6msdtd7sp07pe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC784z3bipuK8HMfF5IfsK3VdlGTRekFfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273481867319-n2f674eru4v4mdj5hu6msdtd7sp07pe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273481867319:android:cc460a4439eb7aa93c9fb2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273481867319-8lvlulb04k46s6abloubtkrs8t494jku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "acfd91b8695adb7fff708ae0daf24302ea8ee436"
+          }
+        },
+        {
+          "client_id": "273481867319-n2f674eru4v4mdj5hu6msdtd7sp07pe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC784z3bipuK8HMfF5IfsK3VdlGTRekFfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273481867319-n2f674eru4v4mdj5hu6msdtd7sp07pe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
